@@ -26,7 +26,7 @@ The `JWTSettings` section contains the configuration for JWT authentication:
 To get started with the project, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/your-repo/filestore-api.git`
+`git clone https://github.com/bujar-ademi/FileStore.git`
 
 
 2. Navigate to the project directory:
